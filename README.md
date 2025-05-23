@@ -64,5 +64,5 @@ Este projeto é de uso livre para estudo e experimentação.
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 😊
+Desenvolvido por [Géssica Meireles](https://github.com/gessicameireles30) 😊
 
